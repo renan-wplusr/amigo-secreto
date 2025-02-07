@@ -1,8 +1,8 @@
-Projeto: Amigo Secreto 🎉
+Projeto: Amigo Secreto 
 
 Este é um projeto simples e interativo desenvolvido em JavaScript, HTML e CSS, que permite criar uma lista de amigos, sortear um amigo secreto e exibir o resultado na tela.
 
-Funcionalidades 🚀
+Funcionalidades 
 
 Adicionar Amigos:
 
@@ -26,14 +26,14 @@ Evita a adição de entradas vazias.
 Impede o sorteio caso a lista esteja vazia. 
 { 
 
-Tecnologias Utilizadas 🛠️
+Tecnologias Utilizadas 
 {
 HTML: Estrutura do projeto.
 CSS: Estilização básica para o layout e visual.
 JavaScript: Lógica do projeto, gerenciamento da lista, validações e exibição de resultados. 
 } 
 
-Como Usar 📖
+Como Usar 
 
 {
 Digite o nome de um amigo no campo de entrada e clique no botão "Adicionar".
@@ -43,7 +43,7 @@ O nome do amigo sorteado será exibido na tela.
 Após o sorteio, a lista será limpa automaticamente, permitindo um novo início.
 }
 
-Estrutura do Código 📂
+Estrutura do Código 
 
 adicionarAmigo(): 
 
@@ -67,7 +67,7 @@ limparNomes():
 Limpa o campo de entrada após adicionar um nome.
 }
 
-Melhorias Futuras 🌟 
+Melhorias Futuras 
 {
 Adicionar a funcionalidade de remover amigos específicos da lista.
 Implementar uma estilização mais elaborada para o design da aplicação.
